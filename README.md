@@ -8,17 +8,22 @@ The app features a Streamlit UI where users can ask natural language questions l
 
 **Features**
 
-🧠 AI understands natural language queries
-🔧 LangChain tool calling to run external functions
-🌍 Real-time exchange rate retrieval using API
-💹 Automatic currency conversion with calculation
-🖥 Simple and interactive Streamlit interface
+1. AI understands natural language queries
+2. LangChain tool calling to run external functions
+3. Real-time exchange rate retrieval using API
+4. Automatic currency conversion with calculation
+5. Simple and interactive Streamlit interface
 
 **Tech Stack**
 
 Component    -   Technology
+
 LLM	Google   -   Gemini 2.0 Flash
+
 Framework    -   LangChain Tools
+
 Frontend     -   Streamlit
+
 API          -   ExchangeRate API
+
 Language     -   Python
