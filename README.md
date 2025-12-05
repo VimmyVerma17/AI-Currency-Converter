@@ -13,9 +13,9 @@ The app features a Streamlit UI where users can ask natural language questions l
 3. Real-time exchange rate retrieval using API
 4. Automatic currency conversion with calculation
 5. Simple and interactive Streamlit interface
-```
-**Tech Stack**
 
+**Tech Stack**
+```
 Component    -   Technology
 
 LLM	Google   -   Gemini 2.0 Flash
